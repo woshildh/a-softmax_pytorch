@@ -20,6 +20,7 @@ After train, you can get the acc about 98.7%.  All feature picture is in logs/im
     <img src="logs/test.gif" alt="test_gif" width=40%>
 </div>  
 The left is feature distribution in train step and the right is in test step.
+
 ### look train resulst by tensorboard
 ```
 $ tensorboard --logdir=logs/tblog --port=6006
